@@ -93,3 +93,16 @@ body{
     margin-right: 8vw;
     margin-bottom: 5vh;
 }
+.fond{
+    background-image: url(gold.jpg);
+    padding-right: 40px;
+    font-size: large;
+}
+.button{
+    background-image: url(gold.jpg);
+    padding-right: 40px;
+    font-size: large;
+}
+.button:hover{
+    color: black;
+}
