@@ -36,3 +36,7 @@ a{
 .navlink:hover{
     color: rgb(250, 189, 99);
 }
+body{
+    background-color: black;
+    background-attachment: fixed;
+}
