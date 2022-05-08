@@ -36,3 +36,36 @@ a{
 .navlink:hover{
     color: rgb(250, 189, 99);
 }
+body{
+    background-color: black;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: auto;
+    overflow: hidden;
+    background: transparent;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+#titre{
+    color: rgb(250, 189, 99);
+    margin-top: 8%;
+    width: 22%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: xx-large;
+}
+.soustitre{
+    color: white;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
