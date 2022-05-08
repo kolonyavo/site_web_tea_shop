@@ -115,3 +115,19 @@ div{
     font-size: 105%;
     font-family: monospace;
 }
+.column2{
+    width: 101%;
+    height: auto;
+    overflow: hidden;
+    margin-bottom: -4px;
+    margin-left: 3%;
+}
+.column3_2{
+    width: 92%;
+    height: 5px;
+    background-image: url(gold.jpg);
+}
+.shopview{
+    width: 23%;
+    height: 250px;
+}
