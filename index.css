@@ -24,3 +24,12 @@ a{
     opacity: 0.9;
     height: 40px;
 }
+.navbar{
+    position: fixed;
+    width: 100%;
+    padding-top: 20px;
+    background: transparent;
+    top: 0%;
+    left: 0%;
+    z-index: 5;
+}
