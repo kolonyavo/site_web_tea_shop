@@ -8,3 +8,7 @@ a{
     padding-bottom: 2vh;
     border-radius: 20px;
 }
+.title{
+    padding-left: 50%;
+    font-family: cursive;
+}
