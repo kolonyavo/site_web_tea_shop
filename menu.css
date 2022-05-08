@@ -1,0 +1,38 @@
+a{
+    font-size: x-large;
+    color: white;
+    text-decoration-line: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+    padding-left: 2em;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    border-radius: 20px;
+}
+.title{
+    padding-left: 55%;
+    font-family: cursive;
+}
+.nav{
+    position: fixed;
+    width: 100%;
+    padding-top: 20px;
+    background: transparent;
+    top: 0%;
+    left: 0%;
+    z-index: 4;
+    background-color: black;
+    opacity: 0.9;
+    height: 45px;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    padding-top: 20px;
+    background: transparent;
+    top: 0%;
+    left: 0%;
+    z-index: 5;
+}
+.navlink:hover{
+    color: rgb(250, 189, 99);
+}
