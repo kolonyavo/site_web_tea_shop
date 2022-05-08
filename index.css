@@ -181,3 +181,6 @@ p{
     overflow: hidden;
     color: black;
 }
+.hr{
+    visibility: hidden;
+}
