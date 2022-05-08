@@ -94,12 +94,12 @@ body{
     margin-bottom: 5vh;
 }
 .fond{
-    background-image: url(gold.jpg);
+    background-image: url(images/gold.jpg);
     padding-right: 40px;
     font-size: large;
 }
 .button{
-    background-image: url(gold.jpg);
+    background-image: url(images/gold.jpg);
     padding-right: 40px;
     font-size: large;
 }
@@ -125,7 +125,7 @@ div{
 .column3_2{
     width: 92%;
     height: 5px;
-    background-image: url(gold.jpg);
+    background-image: url(images/gold.jpg);
 }
 .shopview{
     width: 23%;
