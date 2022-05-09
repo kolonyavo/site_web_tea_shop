@@ -1,7 +1,7 @@
 # site_web pour un Salon de Thé
 
-# télécharger
-Télécharger le contenu de ce ripository à l'aide de fork et télécharger le ripository sous format .zip
+# Télécharger et Installation
+* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-sb-admin)
 
 # utilisation
 Déziper le fichier et ouvrir le fichier index.html dans votre navigateur
