@@ -123,3 +123,35 @@ div{
     text-decoration-line: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
 }
+.hr{
+    visibility: hidden;
+}
+.flexinter{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    overflow: hidden;
+    color: #ffffff;
+    align-items: center;
+}
+.left{
+    width: 30%;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.column1{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.button{
+    background-image: url(images/gold.jpg);
+    padding-right: 40px;
+    font-size: large;
+}
+.button:hover{
+    color: black;
+}
