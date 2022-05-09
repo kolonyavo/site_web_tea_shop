@@ -6,4 +6,5 @@
 
 # Utilisation
 Déziper, si nécéssaire, le fichier et ouvrir le fichier 'index.html' dans votre navigateur.
+<br>
 Vous pouvez maintenant naviguer sur le site et découvrir le salon de thé.
