@@ -2,6 +2,7 @@
 
 # Télécharger et Installation
 * [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-sb-admin)
+* Clone the repo: `git clone https://github.com/kolonyavo/site_web_tea_shop.git`
 
 # utilisation
 Déziper le fichier et ouvrir le fichier index.html dans votre navigateur
