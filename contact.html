@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tea Shop</title>
-    <link rel="stylesheet" href="menu.css">
+    <link rel="stylesheet" href="contact.css">
 </head>
 <body>
     <!--Navigateur barre-->
@@ -19,3 +19,29 @@
     <!--background du navbar-->
         <div class="nav"></div>
 <!--Fin navigateur barre-->
+
+<!--formulaire de reservation-->
+<div class="container">
+    <form class="flex">
+        <label>Nom :</label>
+        <input type="text" placeholder="Votre Nom et Prénom" required>
+        <br>
+        <label>E-mail :</label>
+        <input type="email" id="email_addr" name="email_addr" required>
+        <br>
+        <label>Nombre de personnes:</label>
+        <input type="number" min="1" max="30" required>
+        <br>
+        <label>Votre message</label>
+        <input type="text" >
+        <div class="row">
+            <label>Date de réservation :</label>
+            <input type="date" id="arrival_dt" name="arrival_dt" required>
+            <br>
+            <label>Heure de réservation :</label>
+            <input type="time" id="arrival_dt" name="arrival_dt" required>
+            <br>
+        </div>
+        <input type="submit" value="Effectuer la réservation" class="bt"/> 
+    </form>
+</div>
