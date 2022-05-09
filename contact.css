@@ -115,3 +115,19 @@ div {
 .button:hover{
     color: rgb(250, 189, 99);
 }
+.column1{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.hr{
+    visibility: hidden;
+}
+.button2{
+    background-image: url(images/gold.jpg);
+    padding-right: 40px;
+    font-size: large;
+}
+.button2:hover{
+    color: black;
+}
