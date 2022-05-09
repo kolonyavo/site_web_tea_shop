@@ -107,3 +107,11 @@ div {
     background-color: black;
     padding: 20px;
 }
+.button{
+    background-color: black;
+    padding-right: 40px;
+    font-size: large;
+}
+.button:hover{
+    color: rgb(250, 189, 99);
+}
