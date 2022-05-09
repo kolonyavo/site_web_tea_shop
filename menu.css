@@ -107,3 +107,19 @@ body{
 div{
     font-family: monospace;
 }
+.fond{
+    background-color: rgb(250, 189, 99);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.text{
+    margin-top: 50px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+    color: black;
+    text-decoration-line: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
